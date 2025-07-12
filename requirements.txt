@@ -1,0 +1,9 @@
+flask
+requests
+pyqrcode
+pypng
+beautifulsoup4
+lxml
+urllib3
+pyinstaller
+Pillow
